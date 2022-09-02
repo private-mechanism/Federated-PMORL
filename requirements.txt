@@ -1,0 +1,46 @@
+attrs==21.4.0
+certifi==2021.10.8
+cffi @ file:///tmp/build/80754af9/cffi_1636541934635/work
+charset-normalizer==2.0.12
+fedlab==1.1.2
+idna==3.3
+importlib-resources==5.6.0
+joblib==1.1.0
+JsonForm==0.0.2
+jsonpatch==1.32
+jsonpointer==2.2
+jsonschema==4.4.0
+JsonSir==0.0.2
+mkl-fft==1.3.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+numpy @ file:///tmp/build/80754af9/numpy_and_numpy_base_1603570489231/work
+pandas==1.4.2
+Pillow==9.0.1
+plotly @ file:///opt/conda/conda-bld/plotly_1646671701182/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pynvml==11.4.1
+pyrsistent==0.18.1
+python-dateutil==2.8.2
+Python-EasyConfig==0.1.7
+pytz==2022.1
+PyYAML==6.0
+pyzmq==22.3.0
+requests==2.27.1
+Resource==0.2.1
+scikit-learn==1.0.2
+scipy==1.8.0
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sklearn==0.0
+tenacity @ file:///tmp/build/80754af9/tenacity_1632756856731/work
+threadpoolctl==3.1.0
+torch==1.11.0
+torchfile==0.1.0
+torchvision==0.11.3
+tornado==6.1
+tqdm==4.64.0
+typing_extensions @ file:///opt/conda/conda-bld/typing_extensions_1647553014482/work
+urllib3==1.26.9
+visdom==0.1.8.9
+websocket-client==1.3.1
+zipp==3.8.0
